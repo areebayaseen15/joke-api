@@ -29,29 +29,6 @@ prgramming_joke = [
     "👩‍💻 Bachpan mein Ma kehti thi: 'Beta kuch ban na!'… Maine API bana li! 🌐"
 ]
 
-prgramming_joke = [
-    "🤖 Kyun Python developer hamesha late hota hai? Kyunki wo pehle indentation set karta hai! ⏳",
-    "💍 Frontend Developer: 'Meri shaadi ho gayi!' Backend Developer: 'Kab commit kiya?' 😂",
-    "💔 Programmer ki shaadi kyun nahi hoti? Kyunki wo hamesha '404: Love Not Found' hota hai! 🚫",
-    "🎂 Ek Python developer ne bakery kholo, naam rakha ‘Indentation Cakes’. 🍰",
-    "🗑️ C++ programmer ka breakup ho gaya. Usne bola: 'Ab main tumhe delete kar raha hoon… aur memory bhi free kar raha hoon!'",
-    "🌑 Why do programmers prefer dark mode? Because light attracts bugs! 🐛",
-    "🏠 Ek developer ne ghar ka kaam nahi kiya. Maa boli: ‘Beta, ghar bhi toh ek module hai!’ 🏡",
-    "💻 Kya tumhey pata hai? Computers kabhi thakte nahi… bas 'crash' ho jaate hain! ⚡",
-    "💸 Why did the JavaScript developer go broke? Because he lost his 'this'. 🫠",
-    "😢 Developer ka breakup ho gaya, dosto ne poocha: 'Kya hua?' Usne kaha: 'Usne mujhe hardcoded samajh liya!'",
-    "❤️ Programming ke rishte arrange nahi hote, kyunki sab chahte hain 'perfect match()'! 💑",
-    "🛑 Linux users kabhi shaadi nahi karte, kyunki wo hamesha 'root' hi rehna chahte hain! 🤓",
-    "🤨 Kya tumhey pata hai? Ek program bina error ke chal jaye to developer ko shak hota hai! 🤔",
-    "🔄 Kyun programmer ki life boring hoti hai? Kyunki wo sirf ‘if’ aur ‘else’ mein jeeta hai!",
-    "🍪 Agar ek programmer party de to kya serve karega? 'Cookies' aur 'Java'! ☕",
-    "🧑‍🤝‍🧑 Main ek database ke bina jee nahi sakta... kyunki mujhe ‘relational’ hona pasand hai! 🔄",
-    "🗣️ Interviewer: ‘Aapko kon si language aati hai?’ Candidate: ‘Main fluent hoon Stack Overflow mein!’ 😂",
-    "☕ Programmer ka favorite formula: if (sad) then drink(tea) else code(); 🤖",
-    "🚨 Programming aur rishtedaron ki baat ek jaisi hoti hai, dono mein 'exception handling' zaroori hoti hai! 😆",
-    "👩‍💻 Bachpan mein Ma kehti thi: 'Beta kuch ban na!'… Maine API bana li! 🌐"
-]
-
 dark_humor_jokes = [
     "💡 Mujhe andheray se dar lagta tha… phir maine bijli ka bill dekha, ab roshni se bhi lagta hai! 💸⚡",
     "🚗 Parallel parking meri zindagi ki tarah hai… bas bar bar try karti hoon jab tak koi aur haar na maan le! 😅",
